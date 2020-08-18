@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Randy
+
+"life is non stop learning"
+
+[Here is me.](https://www.cakeresume.com/randy-ef842e)
 
 <!--
 **waterfall531/waterfall531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
