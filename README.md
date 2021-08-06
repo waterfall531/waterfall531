@@ -7,9 +7,9 @@
 
 ## Profile #
 
-* 錢冠綸 Randy Cian
+* Randy Cian
 * Phone: O987-629-514
-* Email: [rwaterfall531@gmail.com](mailto:rwaterfall531@gmail.com)
+* Email: [rwaterfall531 AT gmail.com](mailto:rwaterfall531@gmail.com)
 
 ## Experience #
 
