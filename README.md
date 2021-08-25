@@ -13,7 +13,7 @@
 
 ## Experience #
 
-### 百阜科技有限公司-PHP開發工程師, 2018/7 - now
+### 百阜科技有限公司-PHP開發工程師, 2018/7 - 2021/6
  * Leading a new project with GitLab ci and unit test and Integration testing 
  * Improve performance speed up 4x
  * Update the crawler to improve performance and stability from once every month to once every three months
